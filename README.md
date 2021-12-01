@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sabari-saravanan-m
-- 👀 I've expereince in Bench Characterization of Buck Converter and LDOs across PVT (process, voltage, and temperature) and 
+- 👀 I've expereince in Bench Characterization of Buck Converter and LDOs across PVT and 
       Interested to develop automation apllications using Python and LabVIEW.
 - 🌱 I’m currently learning more on Silicon Validation
 - 💞️ I’m looking to collaborate on Python library-API development
